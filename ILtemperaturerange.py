@@ -1,4 +1,4 @@
-from IsingLattice import *
+from IsingLattice_jiang import *
 from matplotlib import pylab as pl
 import numpy as np
 
